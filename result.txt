@@ -1,0 +1,11 @@
+Data 1: Genesis Block - 0
+Hash 1: 39331a6a2ea1cf31a5014b2a7c9e8dfad82df0b0666e81ce04cf8173cc5aed3e
+
+Data 2: Ujjwal sends 3.1 GC to Sashwat - Shashwat sends 2.5 GC to Shikhar - 39331a6a2ea1cf31a5014b2a7c9e8dfad82df0b0666e81ce04cf8173cc5aed3e
+Hash 2: aa45774ad2dc0bf955d6530106706ac251d86fe12c06b6b0f97fc8d76370120f
+
+Data 3: Shikhar sends 1.2 GC to Snehil - Snehil sends 0.5 GC to Ayush - aa45774ad2dc0bf955d6530106706ac251d86fe12c06b6b0f97fc8d76370120f
+Hash 3: d36266b6a4593279bbc532bea7977f448a6e386b4146b83af14fd11f24660b2e
+
+Data 4: Ayush sends 0.2 GC to Vaibhav - Vaibhav sends 0.1 GC to Anupam - d36266b6a4593279bbc532bea7977f448a6e386b4146b83af14fd11f24660b2e
+Hash 4: ff62c0ae31003937105a72a1d602b1fcb34ac2dd168ac4a86480d6dfedaa03c8
