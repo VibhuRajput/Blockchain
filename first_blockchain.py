@@ -36,12 +36,12 @@ class Blockchain:
     @property
     def last_block(self):
         return self.chain[-1]
-t1 = "Ujjwal sends 3.1 GC to Sashwat"
-t2 = "Shashwat sends 2.5 GC to Shikhar"
-t3 = "Shikhar sends 1.2 GC to Snehil"
-t4 = "Snehil sends 0.5 GC to Ayush"
-t5 = "Ayush sends 0.2 GC to Vaibhav"
-t6 = "Vaibhav sends 0.1 GC to Anupam"
+t1 = "Ujjwal sends 3.1 VC to Sashwat"
+t2 = "Shashwat sends 2.5 VC to Shikhar"
+t3 = "Shikhar sends 1.2 VC to Snehil"
+t4 = "Snehil sends 0.5 VC to Ayush"
+t5 = "Ayush sends 0.2 VC to Vaibhav"
+t6 = "Vaibhav sends 0.1 VC to Anupam"
 
 myblockchain = Blockchain()
 
